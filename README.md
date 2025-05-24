@@ -2,7 +2,7 @@
 
 🎓 IT Student at Kent State University | Networking Focus  
 💻 Passionate about coding, networking, and cybersecurity  
-🌱 Currently learning: Python & Java  
+🌱 Currently learning: Python & C++ 
 🚀 Working on: A personal To-Do List app in Python  
 
 ## 🔧 Technologies & Tools
